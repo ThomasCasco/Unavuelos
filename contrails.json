@@ -1,0 +1,21 @@
+{
+    "img_path": "./assets/airplane-blue.svg",
+    "img_angle": 90,
+    "background_color": "#213555",
+    "planes": {
+        "speed": 3,
+        "size": 20,
+        "number": 3,
+        "double_contrails": true,
+        "contrails_spacing": 0.2
+    },
+    "particles": {
+        "size": 0.5,
+        "lifespan": 200,
+        "number": 200,
+        "color": "#FFFFFF",
+        "move_probability": 0.3
+    },
+    "fps": 60,
+    "canvas_offset": 50
+}
